@@ -1,4 +1,4 @@
 deployment:
   replicas: 3
   ports:
-    - 3000
+    - [3000]
